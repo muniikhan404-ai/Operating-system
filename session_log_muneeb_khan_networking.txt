@@ -1,0 +1,107 @@
+Script started on 2026-10-13 21:39:50+05:00 [TERM="dumb" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+MuneebKhan@MuneebKhan-VirtualBox:~$ pwd
+/home/MuneebKhan
+MuneebKhan@MuneebKhan-VirtualBox:~$ li s
+khan	 Documents  Music     Public	 Videos	     session_log.txt
+Desktop	 Downloads  Pictures  Templates	 myfile.txt  snap
+MuneebKhan@MuneebKhan-VirtualBox:~$ usr
+Command 'usr' not found, did you mean:
+  command 'ssr' from deb soundscaperenderer-common (0.6.1+dfsg-3build1)
+  command 'psr' from deb python3-semantic-release (10.5.3-1)
+  command 'csr' from deb rheolef (7.2-7build1)
+  command 'sur' from deb subtle (0.11.3224-xi-3)
+  command 'sr' from deb surfraw (2.3.0-2build1)
+  command 'ur' from deb libur-perl (0.470+ds-3)
+Try: sudo apt install <deb name>
+MuneebKhan@MuneebKhan-VirtualBox:~$ sudo apt insat  tall <e deb name>
+bash: syntax error near unexpected token `newline'
+MuneebKhan@MuneebKhan-VirtualBox:~$ ls ~
+khan	 Documents  Music     Public	 Videos	     session_log.txt
+Desktop	 Downloads  Pictures  Templates	 myfile.txt  snap
+MuneebKhan@MuneebKhan-VirtualBox:~$ cd G Desktop
+MuneebKhan@MuneebKhan-VirtualBox:~/Desktop$ cd  /home/me/Documenst  ts
+bash: cd/home/me/Documents: No such file or directory
+MuneebKhan@MuneebKhan-VirtualBox:~/Desktop$ 
+                                                                                                                   
+MuneebKhan@MuneebKhan-VirtualBox:~/Desktop$ cdd    ..
+MuneebKhan@MuneebKhan-VirtualBox:~$ mkdir khan
+MuneebKhan@MuneebKhan-VirtualBox:~$ ls
+khan	 Documents  Music     Public	 Videos	 myfile.txt	  snap
+Desktop	 Downloads  Pictures  Templates	 khan	 session_log.txt
+MuneebKhan@MuneebKhan-VirtualBox:~$ mkdir khan sheikh 
+MuneebKhan@MuneebKhan-VirtualBox:~$ ls
+khan	 Documents  Music     Public	 Videos	 khan	     session_log.txt  snap
+Desktop	 Downloads  Pictures  Templates	 khan	 myfile.txt  sheikh
+MuneebKhan@MuneebKhan-VirtualBox:~$ mv items ... directory
+mv: target 'directory': No such file or directory
+MuneebKhan@MuneebKhan-VirtualBox:~$ rmdir
+error: the following required arguments were not provided:
+  <dirs>...
+
+Usage: rmdir [OPTION]... DIRECTORY...
+
+For more information, try '--help'.
+MuneebKhan@MuneebKhan-VirtualBox:~$ ls
+khan	 Documents  Music     Public	 Videos	 khan	     session_log.txt  snap
+Desktop	 Downloads  Pictures  Templates	 khan	 myfile.txt  sheikh
+MuneebKhan@MuneebKhan-VirtualBox:~$ rmdir sheikh
+MuneebKhan@MuneebKhan-VirtualBox:~$ ls
+khan	 Documents  Music     Public	 Videos	 khan	     session_log.txt
+Desktop	 Downloads  Pictures  Templates	 khan	 myfile.txt  snap
+MuneebKhan@MuneebKhan-VirtualBox:~$ 
+                                                                                                                           
+MuneebKhan@MuneebKhan-VirtualBox:~$ 
+                                                                                                                   
+MuneebKhan@MuneebKhan-VirtualBox:~$ mv khan ALa  lam
+MuneebKhan@MuneebKhan-VirtualBox:~$ ls
+khan	 Documents  Music     Public	 Videos	 myfile.txt	  snap
+Desktop	 Downloads  Pictures  Templates	 khan	 session_log.txt
+MuneebKhan@MuneebKhan-VirtualBox:~$ cd aa  khan
+MuneebKhan@MuneebKhan-VirtualBox:~/khan$ ls
+khan
+MuneebKhan@MuneebKhan-VirtualBox:~/khan$ cdd  ..
+MuneebKhan@MuneebKhan-VirtualBox:~$ touch KHAN
+MuneebKhan@MuneebKhan-VirtualBox:~$ cat . > > KHan  An N
+i ma    am Muneeb Khan and i am from l kky  ts , and boir     orn in q Quettq aD MuneebKhan@MuneebKhan-VirtualBox:~$ 
+MuneebKhan@MuneebKhan-VirtualBox:~$ gedit KHAN
+
+** (gedit:13444): [1;33mWARNING[0m **: [34m21:59:55.153[0m: Could not load Peas repository: Typelib file for namespace 'Peas', version '1.0' not found
+
+** (gedit:13444): [1;33mWARNING[0m **: [34m21:59:55.153[0m: Could not load PeasGtk repository: Typelib file for namespace 'PeasGtk', version '1.0' not found
+
+(gedit:13444): libgedit-gtksourceview-[1;33mWARNING[0m **: [34m21:59:56.166[0m: Failed to load style scheme file '/usr/share/libgedit-gtksourceview-300/styles/Yaru.xml': Error on line 3 char 1: attribute 'version' invalid for element 'style-scheme'
+
+(gedit:13444): libgedit-gtksourceview-[1;33mWARNING[0m **: [34m21:59:56.167[0m: Failed to load style scheme file '/usr/share/libgedit-gtksourceview-300/styles/Yaru-dark.xml': Error on line 3 char 1: attribute 'version' invalid for element 'style-scheme'
+MuneebKhan@MuneebKhan-VirtualBox:~$ gedit KHANcat > KHANgedit KHAN
+
+** (gedit:13652): [1;33mWARNING[0m **: [34m22:00:51.681[0m: Could not load Peas repository: Typelib file for namespace 'Peas', version '1.0' not found
+
+** (gedit:13652): [1;33mWARNING[0m **: [34m22:00:51.681[0m: Could not load PeasGtk repository: Typelib file for namespace 'PeasGtk', version '1.0' not found
+
+(gedit:13652): libgedit-gtksourceview-[1;33mWARNING[0m **: [34m22:00:52.203[0m: Failed to load style scheme file '/usr/share/libgedit-gtksourceview-300/styles/Yaru.xml': Error on line 3 char 1: attribute 'version' invalid for element 'style-scheme'
+
+(gedit:13652): libgedit-gtksourceview-[1;33mWARNING[0m **: [34m22:00:52.203[0m: Failed to load style scheme file '/usr/share/libgedit-gtksourceview-300/styles/Yaru-dark.xml': Error on line 3 char 1: attribute 'version' invalid for element 'style-scheme'
+MuneebKhan@MuneebKhan-VirtualBox:~$ cat  KHAN
+I am Muneeb Khan from Baldher. I was born in Mansehra. I am interested in computer networking and want to build my career as a Network Engineer. I enjoy learning about computer networks, IP addresses, routers, switches, and network security. My goal is to develop strong technical skills, troubleshoot network problems, and help keep computer systems connected and secure.
+MuneebKhan@MuneebKhan-VirtualBox:~$ less    
+MuneebKhan@MuneebKhan-VirtualBox:~$ cat  KHANgedit KHAN
+
+** (gedit:13926): [1;33mWARNING[0m **: [34m22:04:50.645[0m: Could not load Peas repository: Typelib file for namespace 'Peas', version '1.0' not found
+
+** (gedit:13926): [1;33mWARNING[0m **: [34m22:04:50.645[0m: Could not load PeasGtk repository: Typelib file for namespace 'PeasGtk', version '1.0' not found
+
+(gedit:13926): libgedit-gtksourceview-[1;33mWARNING[0m **: [34m22:04:51.716[0m: Failed to load style scheme file '/usr/share/libgedit-gtksourceview-300/styles/Yaru.xml': Error on line 3 char 1: attribute 'version' invalid for element 'style-scheme'
+
+(gedit:13926): libgedit-gtksourceview-[1;33mWARNING[0m **: [34m22:04:51.717[0m: Failed to load style scheme file '/usr/share/libgedit-gtksourceview-300/styles/Yaru-dark.xml': Error on line 3 char 1: attribute 'version' invalid for element 'style-scheme'
+MuneebKhan@MuneebKhan-VirtualBox:~$ gedit KHANcat  KHAN 
+I am Muneeb Khan from Baldher. I was born in Mansehra. I am interested in computer networking and want to build my career as a Network Engineer. I enjoy learning about computer networks, IP addresses, routers, switches, and network security. My goal is to develop strong technical skills, troubleshoot network problems, and help keep computer systems connected and secure.
+MuneebKhan@MuneebKhan-VirtualBox:~$ cat >> KHAN
+aaaaaa      hello 
+MuneebKhan@MuneebKhan-VirtualBox:~$ cat >> KHAN
+MuneebKhan@MuneebKhan-VirtualBox:~$ cat >> KHAN KHAN  
+I am Muneeb Khan from Baldher. I was born in Mansehra. I am interested in computer networking and want to build my career as a Network Engineer. I enjoy learning about computer networks, IP addresses, routers, switches, and network security. My goal is to develop strong technical skills, troubleshoot network problems, and help keep computer systems connected and secure.
+hello 
+MuneebKhan@MuneebKhan-VirtualBox:~$ exit
+exit
+
+Script done on 2026-10-13 22:10:41+05:00 [COMMAND_EXIT_CODE="0"]
